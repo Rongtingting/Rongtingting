@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/LingDong-/shan-shui-inf/raw/master/screenshots/screen002.jpg?raw=true"></img><table><tr>
+<img src="https://github.com/Rongtingting/Rongtingting/blob/main/images/SassonRoad5.jpg?raw=true"></img><table><tr>
 
 ![](https://github-readme-stats.vercel.app/api?username=Rongtingting&theme=dark)
 
