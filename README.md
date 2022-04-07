@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Rongting's research world! 😄
 <img src="https://github.com/Rongtingting/Rongtingting/blob/main/images/SassonRoad5.jpg?raw=true"></img><table><tr>
 
 ![](https://github-readme-stats.vercel.app/api?username=Rongtingting&theme=dark)
@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+- 🔭 I’m currently working on XClone project.
+- 🌱 I’m currently learning statistical modelling.
+- 👯 I’m looking to collaborate on single cell genomics.
+- 💬 Ask me about XClone and PTM-X.
+- 📫 How to reach me: rthuang@connect.hku.hk
