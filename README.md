@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
+
+- 😄 I'm currently an exchange graduate student at Harvard Medical School.  
 - 🔭 I’m currently working on XClone project.
 - 🌱 I’m currently learning statistical modelling.
 - 👯 I’m looking to collaborate on single cell genomics.
