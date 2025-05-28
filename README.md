@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I'm currently an exchange graduate student at Harvard Medical School.  
-- 🔭 I’m currently working on XClone project.
-- 🌱 I’m currently learning statistical modelling.
+- 😄 I'm currently a joint Postdoc @Stanford @BIDMChealth, working on single-cell genomics, cancer research, spatial biology.
+- 🔭 I’m currently working on XClone/SpatialCNV project.
+- 🌱 I’m currently learning statistical modelling, image processing.
 - 👯 I’m looking to collaborate on single cell genomics.
 - 💬 Ask me about [XClone](https://github.com/single-cell-genetics/XClone) and [PTM-X](https://github.com/Rongtingting/PTM-X).
-- 📫 How to reach me: rthuang@connect.hku.hk
+- 📫 How to reach me: rthuang@stanford.edu
